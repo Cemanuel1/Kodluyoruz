@@ -1,0 +1,16 @@
+C:\Users\ceman\Desktop\Kodluyoruz\degisken\bin\Debug\net5.0\degisken.exe
+C:\Users\ceman\Desktop\Kodluyoruz\degisken\bin\Debug\net5.0\degisken.deps.json
+C:\Users\ceman\Desktop\Kodluyoruz\degisken\bin\Debug\net5.0\degisken.runtimeconfig.json
+C:\Users\ceman\Desktop\Kodluyoruz\degisken\bin\Debug\net5.0\degisken.runtimeconfig.dev.json
+C:\Users\ceman\Desktop\Kodluyoruz\degisken\bin\Debug\net5.0\degisken.dll
+C:\Users\ceman\Desktop\Kodluyoruz\degisken\bin\Debug\net5.0\ref\degisken.dll
+C:\Users\ceman\Desktop\Kodluyoruz\degisken\bin\Debug\net5.0\degisken.pdb
+C:\Users\ceman\Desktop\Kodluyoruz\degisken\obj\Debug\net5.0\degisken.csproj.AssemblyReference.cache
+C:\Users\ceman\Desktop\Kodluyoruz\degisken\obj\Debug\net5.0\degisken.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ceman\Desktop\Kodluyoruz\degisken\obj\Debug\net5.0\degisken.AssemblyInfoInputs.cache
+C:\Users\ceman\Desktop\Kodluyoruz\degisken\obj\Debug\net5.0\degisken.AssemblyInfo.cs
+C:\Users\ceman\Desktop\Kodluyoruz\degisken\obj\Debug\net5.0\degisken.csproj.CoreCompileInputs.cache
+C:\Users\ceman\Desktop\Kodluyoruz\degisken\obj\Debug\net5.0\degisken.dll
+C:\Users\ceman\Desktop\Kodluyoruz\degisken\obj\Debug\net5.0\ref\degisken.dll
+C:\Users\ceman\Desktop\Kodluyoruz\degisken\obj\Debug\net5.0\degisken.pdb
+C:\Users\ceman\Desktop\Kodluyoruz\degisken\obj\Debug\net5.0\degisken.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\ceman\Desktop\Kodluyoruz\code-project\bin\Debug\net5.0\code-project.exe
+C:\Users\ceman\Desktop\Kodluyoruz\code-project\bin\Debug\net5.0\code-project.deps.json
+C:\Users\ceman\Desktop\Kodluyoruz\code-project\bin\Debug\net5.0\code-project.runtimeconfig.json
+C:\Users\ceman\Desktop\Kodluyoruz\code-project\bin\Debug\net5.0\code-project.runtimeconfig.dev.json
+C:\Users\ceman\Desktop\Kodluyoruz\code-project\bin\Debug\net5.0\code-project.dll
+C:\Users\ceman\Desktop\Kodluyoruz\code-project\bin\Debug\net5.0\ref\code-project.dll
+C:\Users\ceman\Desktop\Kodluyoruz\code-project\bin\Debug\net5.0\code-project.pdb
+C:\Users\ceman\Desktop\Kodluyoruz\code-project\obj\Debug\net5.0\code-project.csproj.AssemblyReference.cache
+C:\Users\ceman\Desktop\Kodluyoruz\code-project\obj\Debug\net5.0\code-project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ceman\Desktop\Kodluyoruz\code-project\obj\Debug\net5.0\code-project.AssemblyInfoInputs.cache
+C:\Users\ceman\Desktop\Kodluyoruz\code-project\obj\Debug\net5.0\code-project.AssemblyInfo.cs
+C:\Users\ceman\Desktop\Kodluyoruz\code-project\obj\Debug\net5.0\code-project.csproj.CoreCompileInputs.cache
+C:\Users\ceman\Desktop\Kodluyoruz\code-project\obj\Debug\net5.0\code-project.dll
+C:\Users\ceman\Desktop\Kodluyoruz\code-project\obj\Debug\net5.0\ref\code-project.dll
+C:\Users\ceman\Desktop\Kodluyoruz\code-project\obj\Debug\net5.0\code-project.pdb
+C:\Users\ceman\Desktop\Kodluyoruz\code-project\obj\Debug\net5.0\code-project.genruntimeconfig.cache

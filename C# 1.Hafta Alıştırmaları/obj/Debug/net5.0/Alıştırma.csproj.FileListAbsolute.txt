@@ -1,0 +1,16 @@
+C:\Users\ceman\Desktop\Kodluyoruz\Alıştırma\obj\Debug\net5.0\Alıştırma.csproj.AssemblyReference.cache
+C:\Users\ceman\Desktop\Kodluyoruz\Alıştırma\obj\Debug\net5.0\Alıştırma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ceman\Desktop\Kodluyoruz\Alıştırma\obj\Debug\net5.0\Alıştırma.AssemblyInfoInputs.cache
+C:\Users\ceman\Desktop\Kodluyoruz\Alıştırma\obj\Debug\net5.0\Alıştırma.AssemblyInfo.cs
+C:\Users\ceman\Desktop\Kodluyoruz\Alıştırma\obj\Debug\net5.0\Alıştırma.csproj.CoreCompileInputs.cache
+C:\Users\ceman\Desktop\Kodluyoruz\Alıştırma\bin\Debug\net5.0\Alıştırma.exe
+C:\Users\ceman\Desktop\Kodluyoruz\Alıştırma\bin\Debug\net5.0\Alıştırma.deps.json
+C:\Users\ceman\Desktop\Kodluyoruz\Alıştırma\bin\Debug\net5.0\Alıştırma.runtimeconfig.json
+C:\Users\ceman\Desktop\Kodluyoruz\Alıştırma\bin\Debug\net5.0\Alıştırma.runtimeconfig.dev.json
+C:\Users\ceman\Desktop\Kodluyoruz\Alıştırma\bin\Debug\net5.0\Alıştırma.dll
+C:\Users\ceman\Desktop\Kodluyoruz\Alıştırma\bin\Debug\net5.0\ref\Alıştırma.dll
+C:\Users\ceman\Desktop\Kodluyoruz\Alıştırma\bin\Debug\net5.0\Alıştırma.pdb
+C:\Users\ceman\Desktop\Kodluyoruz\Alıştırma\obj\Debug\net5.0\Alıştırma.dll
+C:\Users\ceman\Desktop\Kodluyoruz\Alıştırma\obj\Debug\net5.0\ref\Alıştırma.dll
+C:\Users\ceman\Desktop\Kodluyoruz\Alıştırma\obj\Debug\net5.0\Alıştırma.pdb
+C:\Users\ceman\Desktop\Kodluyoruz\Alıştırma\obj\Debug\net5.0\Alıştırma.genruntimeconfig.cache
